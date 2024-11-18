@@ -1,2 +1,2 @@
 # Ventoy-Grub-Themes
-Ventoy GRUB Themes
+Ventoy GRUB Cool Themes
