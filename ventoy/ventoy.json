@@ -1,0 +1,158 @@
+{
+    "control": [
+        { "VTOY_DEFAULT_MENU_MODE": "1" },
+        { "VTOY_FILT_DOT_UNDERSCORE_FILE": "1" },
+        { "VTOY_DEFAULT_SEARCH_ROOT": "/_ISO" },
+        { "VTOY_WIN11_BYPASS_CHECK": "1" }
+    ],
+    "theme": {
+        "file": "/ventoy/theme/0x3c62723e/theme.txt",
+        "gfxmode": "1920x1080",
+        "display_mode": "GUI",
+        "ventoy_left": "5%",
+        "ventoy_top": "95%",
+        "ventoy_color": "#ff0000"
+    },
+    "menu_class": [
+        {
+            "key": "Acronis",
+            "class": "acronis"
+        },
+        {
+            "key": "Hack The Box",
+            "class": "anonymous"
+        },
+        {
+            "key": "Kali Linux",
+            "class": "kali"
+        },
+        {
+            "key": "Parrot Security",
+            "class": "parrot"
+        },
+        {
+            "key": "AOMEI",
+            "class": "aomei"
+        },
+        {
+            "key": "archlinux-",
+            "class": "archlinux"
+        },
+        {
+            "key": "CentOS-",
+            "class": "centos"
+        },
+        {
+            "key": "clonezilla-",
+            "class": "clonezilla"
+        },
+        {
+            "key": "debian-",
+            "class": "debian"
+        },
+        {
+            "key": "deepin-",
+            "class": "deepin"
+        },
+        {
+            "key": "elementaryos-",
+            "class": "elementaryos"
+        },
+        {
+            "key": "Fedora-",
+            "class": "fedora"
+        },
+        {
+            "key": "Ghost",
+            "class": "ghost"
+        },
+        {
+            "key": "linuxmint-",
+            "class": "linuxmint"
+        },
+        {
+            "key": "macOS",
+            "class": "macosx"
+        },
+        {
+            "key": "openSUSE-",
+            "class": "opensuse"
+        },
+        {
+            "key": "Symantec",
+            "class": "symantec"
+        },
+        {
+            "key": "Win_7",
+            "class": "windows_7"
+        },
+        {
+            "key": "Win7",
+            "class": "windows_7"
+        },
+        {
+            "key": "Win8",
+            "class": "windows_8"
+        },
+        {
+            "key": "Windows 10",
+            "class": "windows"
+        },
+        {
+            "key": "Windows 11",
+            "class": "windows11"
+        },
+        {
+            "key": "windows_7",
+            "class": "windows_7"
+        },
+        {
+            "key": "windows_8",
+            "class": "windows_8"
+        },
+        {
+            "key": "Windows 10",
+            "class": "windows"
+        },
+        {
+            "key": "Windows 11",
+            "class": "windows_11"
+        },
+        {
+            "key": "WindowsXP",
+            "class": "windows_xp"
+        },
+        {
+            "key": "WinXP",
+            "class": "windows_xp"
+        },
+        {
+            "key": "kubuntu-",
+            "class": "kubuntu"
+        },
+        {
+            "key": "lubuntu-",
+            "class": "lubuntu"
+        },
+        {
+            "key": "xubuntu-",
+            "class": "xubuntu"
+        },
+        {
+            "key": "ubuntu-",
+            "class": "ubuntu"
+        },
+        {
+            "key": "ventoy-",
+            "class": "ventoy"
+        },
+        {
+            "dir": "/_ISO/Linux",
+            "class": "linux"
+        },
+        {
+            "dir": "/_ISO/macOS",
+            "class": "macosx"
+        }
+    ]
+}
